@@ -8,7 +8,7 @@
 #3/11/2022
 #hw 6
 #Professor Bo Guo
-#Refactor
+# Refactor
 #CSCI4830
 #3/16/2022
 # hw7
