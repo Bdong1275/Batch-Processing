@@ -13,3 +13,8 @@
 #3/16/2022
 #hw7 for q1 and q2 only
 #Professor Bo Guo
+# JUnit testing
+#CSCI4830
+#3/25/2022
+#hw 8
+#Professor Bo Guo
